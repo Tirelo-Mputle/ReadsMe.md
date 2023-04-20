@@ -25,4 +25,4 @@ Tools used:
 ∙ React and Styled Components 
 
 SOCIAL LINKS
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![github repos](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]

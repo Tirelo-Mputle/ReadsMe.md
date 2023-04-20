@@ -23,3 +23,6 @@ GitHub - https://github.com/Tirelo-Mputle/Shortly---link-shortener
 ∙ Used Context API to manage state. 
 Tools used: 
 ∙ React and Styled Components 
+
+SOCIAL LINKS
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)

@@ -25,4 +25,4 @@ GitHub - https://github.com/Tirelo-Mputle/Shortly---link-shortener <br>
 #### Tools used: <br>
 ∙ React and Styled Components <br>
 
-![Screenshot of a the shortly link shortening application](https://media-cdn.tripadvisor.com/media/photo-s/05/50/ec/72/caption.jpg)
+![Screenshot of a the shortly link shortening application](https://www.dropbox.com/s/e6a7q66r5wteb9b/coffee_app.jpg?dl=0)

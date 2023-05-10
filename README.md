@@ -1,4 +1,4 @@
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+![Author](https://img.shields.io/badge/<Badge Text>Tirelo Mputle<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 As a junior full-stack developer, I'm proficient in HTML, CSS, and basic JavaScript.I am currently enrolled in a 1-year Software developer course with CodeSpace. I have completed JavaScipt projects such as a to-do list app and a number guessing game.
 
 In addition to my technical skills, I possess excellent communication skills that I gained working as an elementary school English teacher. I had to communicate complex grammar in a simplified and easy-to-understand manner. This will enable me to break down complex problems and collaborate effectively with other developers. 

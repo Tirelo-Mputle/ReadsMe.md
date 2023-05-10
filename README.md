@@ -7,7 +7,7 @@ In addition to my technical skills, I possess excellent communication skills tha
 
 ### PERSONAL PROJECTS 
 
-# Tirelo Mputle personal portfolio site 🙋‍♀️
+## Tirelo Mputle personal portfolio site 🙋‍♀️
 🔗https://tirelomputle-portfolio.netlify.app/
 #### Description: A personal portfolio which contains the following sections: <br>
 * about 
@@ -21,10 +21,8 @@ There is a contact form that visitors can interact with that will deliver a mess
 #### Technologies used: <br>
 * HTML
 * CSS <br>
-
-
-
-### Javascript Todo list app
+<br>
+## Javascript Todo list app
 🔗https://todoster.netlify.app/
 #### Description: This is a basic todo list app where the user can: <br>
 * Create todos
@@ -35,8 +33,8 @@ There is a contact form that visitors can interact with that will deliver a mess
 * HTML
 * CSS
 * JavaScript
-
-### React E-commerce Coffee Shop Website ☕ <br>
+<br>
+## React E-commerce Coffee Shop Website ☕ <br>
 #### Description: An e-commerce website for the Two 14 coffee shop <br>
 🔗 https://two14coffee.netlify.app/ <br>
 Github: https://github.com/Tirelo-Mputle/two14-coffee-portfolio-project <br>
@@ -45,8 +43,8 @@ Github: https://github.com/Tirelo-Mputle/two14-coffee-portfolio-project <br>
 #### Technologies used: <br>
 * React <br>
 * Styled Components. <br>
-
-### Shortly – React Link Shortening Web Application <br>
+<br>
+## Shortly – React Link Shortening Web Application <br>
 #### Description: URL Link shortening web application using the GoTiny link shortener API<br>
 🔗 https://shortly-url-shorter-api.netlify.app/ <br>
 GitHub - https://github.com/Tirelo-Mputle/Shortly---link-shortener <br>

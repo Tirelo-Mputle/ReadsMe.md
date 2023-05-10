@@ -43,7 +43,7 @@ Github: https://github.com/Tirelo-Mputle/two14-coffee-portfolio-project <br>
 #### Technologies used: <br>
 * React <br>
 * Styled Components. <br>
-<br>
+
 ## Shortly – React Link Shortening Web Application <br>
 #### Description: URL Link shortening web application using the GoTiny link shortener API<br>
 🔗 https://shortly-url-shorter-api.netlify.app/ <br>

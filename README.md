@@ -7,6 +7,13 @@ In addition to my technical skills, I possess excellent communication skills tha
 
 ### PERSONAL PROJECTS 
 
+### Javascript Todo list app
+#### Description: This is a basic todo list app where the user can: <br>
+* Create todos
+* Edit todos
+* Delete todos
+🔗https://todoster.netlify.app/
+
 ### React E-commerce Coffee Shop Website ☕ <br>
 #### Description: An e-commerce website for the Two 14 coffee shop <br>
 🔗 https://two14coffee.netlify.app/ <br>

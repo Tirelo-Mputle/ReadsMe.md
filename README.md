@@ -25,7 +25,7 @@ GitHub - https://github.com/Tirelo-Mputle/Shortly---link-shortener <br>
 #### Tools used: <br>
 ∙ React and Styled Components <br>
 
-<a href="https://drive.google.com/uc?export=view&id=XXX"><img src="https://drive.google.com/uc?export=view&id=XXX" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+<a href="https://drive.google.com/file/d/1uh6Uum4MieQjKba6jyH-X_OAAhX0n7XJ/view?usp=sharing"><img src="https://drive.google.com/file/d/1uh6Uum4MieQjKba6jyH-X_OAAhX0n7XJ/view?usp=sharing" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
 
 
 

@@ -7,12 +7,32 @@ In addition to my technical skills, I possess excellent communication skills tha
 
 ### PERSONAL PROJECTS 
 
+# Tirelo Mputle personal portfolio site 🙋‍♀️
+#### Description: A personal portfolio which contains the following sections: <br>
+* about 
+* work experience
+* education
+* projects
+* contacts 
+<br>
+There is a contact form that visitors can interact with that will deliver a message to my email account.
+
+#### Technologies used: <br>
+* HTML
+* CSS
+
+🔗https://tirelomputle-portfolio.netlify.app/
+
 ### Javascript Todo list app
 #### Description: This is a basic todo list app where the user can: <br>
 * Create todos
 * Edit todos
 * Delete todos
 🔗https://todoster.netlify.app/
+#### Technologies used: <br>
+* HTML
+* CSS
+* JavaScript
 
 ### React E-commerce Coffee Shop Website ☕ <br>
 #### Description: An e-commerce website for the Two 14 coffee shop <br>
@@ -20,7 +40,7 @@ In addition to my technical skills, I possess excellent communication skills tha
 Github: https://github.com/Tirelo-Mputle/two14-coffee-portfolio-project <br>
 * Created a multipage e-commerce website using React Router 6 to navigate between pages. ∙ Product inventory page contains single product components which when clicked, lead to a single  product page where customers can customize their order. <br>
 * Customers can add and remove items from the shopping cart which is stored in the local storage. ∙ Shopping cart content state is managed using the useState hook.<br> 
-#### Tools used: <br>
+#### Technologies used: <br>
 * React <br>
 * Styled Components. <br>
 
@@ -32,7 +52,7 @@ GitHub - https://github.com/Tirelo-Mputle/Shortly---link-shortener <br>
 * Shortened links are stored in local storage and the three most recent results are displayed below  the input field. <br>
 * Copy of the shortened link is made by clicking the “copy” button.<br> 
 * Used Context API to manage state. <br>
-#### Tools used: <br>
+#### Technologies used: <br>
 * React <br>
 * Styled Components <br>
 

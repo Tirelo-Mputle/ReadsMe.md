@@ -24,5 +24,3 @@ GitHub - https://github.com/Tirelo-Mputle/Shortly---link-shortener
 Tools used: 
 ∙ React and Styled Components 
 
-SOCIAL LINKS
-![github repos](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]

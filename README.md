@@ -9,8 +9,8 @@ React E-commerce Coffee Shop Website ☕ <br>
 Description: An e-commerce website for the Two 14 coffee shop <br>
 🔗 https://two14coffee.netlify.app/ <br>
 Github: https://github.com/Tirelo-Mputle/two14-coffee-portfolio-project <br>
-∙ Created a multipage e-commerce website using React Router 6 to navigate between pages. ∙ Product inventory page contains single product components which when clicked, lead to a single  product page where customers can customize their order. <br>
-∙ Customers can add and remove items from the shopping cart which is stored in the local storage. ∙ Shopping cart content state is managed using the useState hook.<br> 
+* Created a multipage e-commerce website using React Router 6 to navigate between pages. ∙ Product inventory page contains single product components which when clicked, lead to a single  product page where customers can customize their order. <br>
+* Customers can add and remove items from the shopping cart which is stored in the local storage. ∙ Shopping cart content state is managed using the useState hook.<br> 
 🧰 Tools used: <br>
 ∙ React and Styled Components. <br>
 

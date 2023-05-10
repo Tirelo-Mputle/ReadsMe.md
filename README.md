@@ -3,7 +3,7 @@ As a junior full-stack developer, I'm proficient in HTML, CSS, and basic JavaScr
 In addition to my technical skills, I possess excellent communication skills that I gained working as an elementary school English teacher. I had to communicate complex grammar in a simplified and easy-to-understand manner. This will enable me to break down complex problems and collaborate effectively with other developers. 
 
 ### SKILLS 
-∙ React | JavaScript | Styled Components | HTML 5 | CSS 3 
+React | JavaScript | Styled Components | HTML 5 | CSS 3 
 
 ### PERSONAL PROJECTS 
 
@@ -21,7 +21,7 @@ There is a contact form that visitors can interact with that will deliver a mess
 #### Technologies used: <br>
 * HTML
 * CSS <br>
-<br>
+
 ## Javascript Todo list app
 🔗https://todoster.netlify.app/
 #### Description: This is a basic todo list app where the user can: <br>
@@ -33,7 +33,7 @@ There is a contact form that visitors can interact with that will deliver a mess
 * HTML
 * CSS
 * JavaScript
-<br>
+
 ## React E-commerce Coffee Shop Website ☕ <br>
 #### Description: An e-commerce website for the Two 14 coffee shop <br>
 🔗 https://two14coffee.netlify.app/ <br>

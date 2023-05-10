@@ -13,7 +13,7 @@ Github: https://github.com/Tirelo-Mputle/two14-coffee-portfolio-project <br>
 * Customers can add and remove items from the shopping cart which is stored in the local storage. ∙ Shopping cart content state is managed using the useState hook.<br> 
 #### Tools used: <br>
 * React <br>
-*Styled Components. <br>
+* Styled Components. <br>
 
 ### Shortly – React Link Shortening Web Application <br>
 #### Description: URL Link shortening web application using the GoTiny link shortener API<br>
@@ -24,6 +24,6 @@ GitHub - https://github.com/Tirelo-Mputle/Shortly---link-shortener <br>
 * Copy of the shortened link is made by clicking the “copy” button.<br> 
 * Used Context API to manage state. <br>
 #### Tools used: <br>
-*React <br>
-*Styled Components <br>
+* React <br>
+* Styled Components <br>
 

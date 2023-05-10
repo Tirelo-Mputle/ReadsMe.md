@@ -25,11 +25,12 @@ There is a contact form that visitors can interact with that will deliver a mess
 
 
 ### Javascript Todo list app
+🔗https://todoster.netlify.app/
 #### Description: This is a basic todo list app where the user can: <br>
 * Create todos
 * Edit todos
 * Delete todos
-🔗https://todoster.netlify.app/
+
 #### Technologies used: <br>
 * HTML
 * CSS

@@ -8,6 +8,7 @@ In addition to my technical skills, I possess excellent communication skills tha
 ### PERSONAL PROJECTS 
 
 # Tirelo Mputle personal portfolio site 🙋‍♀️
+🔗https://tirelomputle-portfolio.netlify.app/
 #### Description: A personal portfolio which contains the following sections: <br>
 * about 
 * work experience
@@ -19,9 +20,9 @@ There is a contact form that visitors can interact with that will deliver a mess
 
 #### Technologies used: <br>
 * HTML
-* CSS
+* CSS <br>
 
-🔗https://tirelomputle-portfolio.netlify.app/
+
 
 ### Javascript Todo list app
 #### Description: This is a basic todo list app where the user can: <br>

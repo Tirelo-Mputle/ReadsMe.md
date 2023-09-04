@@ -9,12 +9,14 @@ React | JavaScript | Styled Components | HTML 5 | CSS 3
 
 ## Tirelo Mputle personal portfolio site 🙋‍♀️
 🔗https://tirelomputle-portfolio.netlify.app/
+🔗https://github.com/Tirelo-Mputle/Current-Personal-Portfolio
+
 #### Description: A personal portfolio which contains the following sections: <br>
-* about 
-* work experience
-* education
-* projects
-* contacts 
+* About 
+* Work experience
+* Education
+* Projects
+* Contacts 
 <br>
 There is a contact form that visitors can interact with that will deliver a message to my email account.
 

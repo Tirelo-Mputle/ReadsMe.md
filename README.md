@@ -8,7 +8,7 @@ React JS | JavaScript | Styled Components | HTML 5 | CSS 3
 ### PERSONAL PROJECTS 
 
 ## Tirelo Mputle personal portfolio site 🙋‍♀️
-🔗https://tirelomputle-portfolio.netlify.app/
+🔗https://tirelomputle-portfolio.netlify.app/ <br>
 🔗https://github.com/Tirelo-Mputle/Current-Personal-Portfolio
 
 #### Description: A personal portfolio which contains the following sections: <br>
